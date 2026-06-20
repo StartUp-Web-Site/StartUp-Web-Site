@@ -6,15 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/startup-web-site/startup-web-site/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=StartUp%20Web%20Site%20Stats" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/startup-web-site/startup-web-site/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2&custom_title=StartUp%20Web%20Site%20Languages" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h1 data-importer="text" align="left">Tecnologias</h1>
 
 ###
