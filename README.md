@@ -1,8 +1,12 @@
-<h1 data-importer="text" align="left">SOBRE A EMPRESA</h1>
+<h1 data-importer="text" align="left">Sobre a Empresa | About the company</h1>
 
 ###
 
 <p data-importer="text" align="left">A StartUp Web Site é especializada no desenvolvimento de sites modernos, rápidos e personalizados para empresas de todos os portes. Criamos soluções digitais que ajudam negócios a fortalecer sua presença online, atrair mais clientes e aumentar suas vendas.<br><br>Nossos serviços incluem sites institucionais, landing pages de alta conversão, cardápios digitais integrados ao WhatsApp, páginas para divulgação de produtos e serviços, além de projetos totalmente personalizados de acordo com as necessidades de cada cliente.<br><br>Trabalhamos com foco em design profissional, experiência do usuário, desempenho e otimização para dispositivos móveis, entregando soluções que unem tecnologia, praticidade e resultados.<br><br>Transformamos ideias em experiências digitais que geram crescimento para o seu negócio.</p>
+
+<hr>
+
+<p data-importer="text" align="left">StartUp Web Site specializes in developing modern, fast, and fully customized websites for businesses of all sizes. We create digital solutions that help companies strengthen their online presence, attract more customers, and increase sales.<br><br>Our services include business websites, high-converting landing pages, digital menus integrated with WhatsApp, product and service showcase pages, and fully tailored web solutions designed to meet each client's specific needs.<br><br>We focus on professional design, user experience, performance, and mobile optimization, delivering solutions that combine technology, practicality, and real business results.<br><br>We turn ideas into digital experiences that drive business growth.</p>
 
 ###
 
